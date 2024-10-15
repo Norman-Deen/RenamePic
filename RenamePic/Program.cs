@@ -19,6 +19,8 @@ class Program
         }
 
         string s = "add for test";
+        string s2 = "add for test";
+        string s3 = "add for test";
 
         foreach (var zipFilePath in zipFiles)
         {
