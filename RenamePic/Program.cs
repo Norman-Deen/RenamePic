@@ -17,6 +17,7 @@ class Program
             Console.WriteLine("لم يتم العثور على أي ملفات مضغوطة في المسار المحدد.");
             return;
         }
+        int x;
 
         foreach (var zipFilePath in zipFiles)
         {
