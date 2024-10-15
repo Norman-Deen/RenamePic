@@ -19,6 +19,10 @@ class Program
         }
         int x;
 
+        string s = "add for test";
+        string s2 = "add for test";
+        string s3 = "add for test";
+
         foreach (var zipFilePath in zipFiles)
         {
             string extractPath = Path.Combine(Path.GetDirectoryName(zipFilePath), "ExtractedFiles_" + Path.GetFileNameWithoutExtension(zipFilePath));  // مجلد مؤقت للاستخراج
