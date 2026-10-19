@@ -36,7 +36,7 @@ This is where all your `.zip` files should be located.
 
 ## 📦 Requirements
 
-* .NET 6 or later
+* .NET 8 SDK
 * Files must contain a folder with `_Render Pics` in the name
 * The folder must contain image files (any extension)
 
