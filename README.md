@@ -20,7 +20,7 @@ Update the path in the code:
 
 ```csharp
 string directoryPath = @"C:\path\to\your\folder";
-````
+```
 
 This is where all your `.zip` files should be located.
 
